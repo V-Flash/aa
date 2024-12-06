@@ -1,0 +1,57 @@
+@media (max-width:727px){
+  .app-link-box{gap:40px;}
+  footer {padding: 19px 0;}
+  .app-link-box{padding:65px;}
+}
+
+@media (max-width:678px){
+  .abc-app-section{padding:110px 0;}
+}
+
+
+@media (max-width:575px){
+  .app-col{padding-left:2.5rem;padding-right:2.5rem;}
+  .abc-app-section{padding:103px 0;}
+  .abc-logo{width:32%;}
+}
+
+@media (max-width: 569px) {
+    .abc-app-section {padding:89px 0;}
+}
+
+@media (max-width:507px) {
+    .abc-app-section {padding:90px 0;}
+}
+
+@media (max-width:480px){
+  .abc-app-section{background-image:url(../images/bg-img-mob.jpg);background-size:cover;padding:95px 0;}
+  .app-link-box {padding:47px 0px;}
+}
+
+@media (max-width:425px){
+.app-link-box {padding: 60px 0px;}
+.abc-logo{width: 37%;}
+}
+
+@media (max-width:375px){
+  .abc-app-section{background-size:cover;}
+  .app-col{padding-left:1.5rem;padding-right:1.5rem;}
+}
+
+@media (max-width:354px){
+  .abc-logo {width: 45%;}
+  .abc-app-section{padding: 64px 0;}
+  .app-link-box {padding: 90px 0px;}
+}
+
+@media (max-width:340px){
+  .app-text {padding: 1.5px 8px;}
+}
+
+@media (max-width:332px){
+  .app-text {padding: 1.5px 3px;}
+}
+
+@media (max-width:332px){
+  .app-text{font-size:14px;top:-13px;}
+}
