@@ -24,12 +24,16 @@
 }
 
 @media (max-width:480px){
-  .abc-app-section{background-image:url(../images/bg-img-mob.jpg);background-size:cover;padding:95px 0;}
+  .abc-app-section{background-image:url(../images/bg-img-mob.jpg);background-size:cover;padding: 45px 0 139px;}
 }
 
 @media (max-width:425px){
 .app-link-box {padding: 60px 0px;}
 .abc-logo{width: 37%;}
+}
+
+@media (max-width:375px){
+  .app-link-box {padding: 62px 0px;}
 }
 
 @media (max-width:375px){
@@ -39,7 +43,7 @@
 
 @media (max-width:354px){
   .abc-logo {width: 45%;}
-  .abc-app-section{padding: 64px 0;}
+  .abc-app-section{padding:45px 0 64px;}
   .app-link-box {padding: 90px 0px;}
 }
 
